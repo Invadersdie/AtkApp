@@ -1,0 +1,14 @@
+apply from: 'emulator.gradle.kts'
+
+task kotlinLint() {
+    dependsOn 'app:ktlintCheck'
+}
+task kotlinStaticCodeAnalysis() {
+    dependsOn 'app:detekt'
+}
+task androidLint() {
+    dependsOn 'app:lint'
+}
+task lintCi {
+    dependsOn kotlinLint, androidLint, kotlinStaticCodeAnalysis
+}

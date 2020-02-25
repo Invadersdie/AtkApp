@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="vm"
+            type="com.atk.app.screens.createunit.CreateUnitViewModel" />
+    </data>
+
+    <LinearLayout
+        android:id="@+id/viewHolder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/toolbarHolder"
+            layout="@layout/view_toolbar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:animateLayoutChanges="true">
+
+                <AutoCompleteTextView
+                    android:id="@+id/companies"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:completionThreshold="1"
+                    android:ems="10"
+                    android:hint="Компания"
+                    android:text="@={vm.companyLiveData}"
+                    app:layout_constraintEnd_toStartOf="@id/companyProgress"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:layout_editor_absoluteX="-30dp"
+                    tools:ignore="HardcodedText" />
+
+                <ProgressBar
+                    android:id="@+id/companyProgress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/ProgressBar"
+                    app:layout_constraintBottom_toBottomOf="@id/companies"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@id/companies"
+                    app:layout_constraintTop_toTopOf="@id/companies" />
+
+
+                <AutoCompleteTextView
+                    android:id="@+id/iccid"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:completionThreshold="1"
+                    android:ems="10"
+                    android:hint="ICCID"
+                    android:text="@={vm.unitIccid}"
+                    app:layout_constraintEnd_toStartOf="@id/iccidProgress"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/equipmentAction"
+                    tools:layout_editor_absoluteX="-30dp"
+                    tools:ignore="HardcodedText" />
+
+                <ProgressBar
+                    android:id="@+id/iccidProgress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/ProgressBar"
+                    app:layout_constraintBottom_toBottomOf="@id/iccid"
+                    app:layout_constraintEnd_toStartOf="@id/takeQrIccid"
+                    app:layout_constraintStart_toEndOf="@id/iccid"
+                    app:layout_constraintTop_toTopOf="@id/iccid"
+                    app:layout_constraintVertical_bias="1.0" />
+
+                <AutoCompleteTextView
+                    android:id="@+id/imei"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:completionThreshold="1"
+                    android:ems="10"
+                    android:hint="IMEI"
+                    android:text="@={vm.unitImei}"
+                    app:layout_constraintEnd_toStartOf="@id/imeiProgress"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/companies" />
+
+                <ProgressBar
+                    android:id="@+id/imeiProgress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/ProgressBar"
+                    app:layout_constraintBottom_toBottomOf="@id/imei"
+                    app:layout_constraintEnd_toStartOf="@id/takeQr"
+                    app:layout_constraintTop_toTopOf="@id/imei" />
+
+                <ImageButton
+                    android:id="@+id/takeQr"
+                    android:layout_width="46dp"
+                    android:layout_height="46dp"
+                    android:background="@android:color/transparent"
+                    android:onClick="@{()->vm.takeQrCode(true)}"
+                    android:src="@drawable/ic_scan"
+                    app:layout_constraintBottom_toBottomOf="@id/imei"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/imei" />
+
+
+                <ImageButton
+                    android:id="@+id/takeQrIccid"
+                    android:layout_width="46dp"
+                    android:layout_height="46dp"
+                    android:background="@android:color/transparent"
+                    android:onClick="@{()->vm.takeQrCode(false)}"
+                    android:src="@drawable/ic_scan"
+                    app:layout_constraintBottom_toBottomOf="@id/iccid"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/iccid" />
+
+
+                <AutoCompleteTextView
+                    android:id="@+id/hwTypeView"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:completionThreshold="1"
+                    android:hint="Модель оборудования"
+                    android:text="@={vm.unitType}"
+                    app:layout_constraintEnd_toStartOf="@id/hwTypesProgress"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/imei" />
+
+                <ProgressBar
+                    android:id="@+id/hwTypesProgress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/ProgressBar"
+                    app:layout_constraintBottom_toBottomOf="@id/hwTypeView"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/hwTypeView" />
+
+                <Spinner
+                    android:id="@+id/equipmentAction"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:entries="@array/equipment_actions"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/hwTypeView" />
+
+                <TextView
+                    android:id="@+id/phoneOperator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:gravity="center_vertical"
+                    android:text="@{vm.phoneOperator}"
+                    android:textAllCaps="true"
+                    app:layout_constraintBottom_toBottomOf="@id/phone"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/phone"
+                    tools:text="velcom" />
+
+                <EditText
+                    android:id="@+id/phone"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Номер телефона"
+                    android:inputType="phone"
+                    android:text="@={vm.unitPhone}"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@id/phoneOperator"
+                    app:layout_constraintTop_toBottomOf="@+id/iccid" />
+
+
+                <EditText
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Марка/гос.номер авто"
+                    android:text="@={vm.unitName}"
+                    app:layout_constraintTop_toBottomOf="@+id/phone"
+                    tools:layout_editor_absoluteX="-30dp" />
+
+                <LinearLayout
+                    android:id="@+id/dutHolder"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    app:layout_constraintTop_toBottomOf="@id/name" />
+
+                <Button
+                    android:id="@+id/addDut"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_bckgr"
+                    android:text="Доп оборудование"
+                    android:textColor="?attr/colorOnPrimary"
+                    android:textAllCaps="false"
+                    android:textSize="14sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/dutHolder" />
+
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/createUnit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:src="@drawable/ic_done"
+                    android:tint="?attr/colorOnPrimary"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/addDut"
+                    app:layout_constraintVertical_bias="1.0" />
+
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/ProgressBar"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.498"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.499" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </ScrollView>
+    </LinearLayout>
+</layout>

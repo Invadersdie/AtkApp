@@ -1,0 +1,3 @@
+def ext = rootProject.extensions.getByName("ext")
+ext.androidVersionName = "0.0.1"
+ext.androidVersionCode = 1 // google play plugin automatically increase version before publishing

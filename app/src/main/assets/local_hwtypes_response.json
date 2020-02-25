@@ -1,0 +1,1954 @@
+[
+  {
+    "id": 66,
+    "uid2": 0,
+    "name": "ADM007",
+    "hw_category": "auto",
+    "tp": "21404",
+    "up": "21404"
+  },
+  {
+    "id": 70,
+    "uid2": 0,
+    "name": "ADM50",
+    "hw_category": "auto",
+    "tp": "21282",
+    "up": "0"
+  },
+  {
+    "id": 71,
+    "uid2": 0,
+    "name": "ADM100",
+    "hw_category": "auto",
+    "tp": "20701",
+    "up": "0"
+  },
+  {
+    "id": 69,
+    "uid2": 0,
+    "name": "ADM300",
+    "hw_category": "auto",
+    "tp": "20663",
+    "up": "0"
+  },
+  {
+    "id": 800,
+    "uid2": 0,
+    "name": "ADM333",
+    "hw_category": "auto",
+    "tp": "21848",
+    "up": "21848"
+  },
+  {
+    "id": 67,
+    "uid2": 0,
+    "name": "ADM600",
+    "hw_category": "auto",
+    "tp": "20595",
+    "up": "0"
+  },
+  {
+    "id": 68,
+    "uid2": 0,
+    "name": "ADM700",
+    "hw_category": "auto",
+    "tp": "21247",
+    "up": "0"
+  },
+  {
+    "id": 201,
+    "uid2": 0,
+    "name": "BCE FM Blue",
+    "hw_category": "auto",
+    "tp": "20229",
+    "up": "20229"
+  },
+  {
+    "id": 199,
+    "uid2": 0,
+    "name": "BCE FM Blue+",
+    "hw_category": "auto",
+    "tp": "21279",
+    "up": "21279"
+  },
+  {
+    "id": 198,
+    "uid2": 0,
+    "name": "BCE FM Light",
+    "hw_category": "auto",
+    "tp": "20482",
+    "up": "20482"
+  },
+  {
+    "id": 191,
+    "uid2": 0,
+    "name": "BCE FM Light+",
+    "hw_category": "auto",
+    "tp": "21280",
+    "up": "21280"
+  },
+  {
+    "id": 196,
+    "uid2": 0,
+    "name": "BCE FM Tacho",
+    "hw_category": "auto",
+    "tp": "21161",
+    "up": "21161"
+  },
+  {
+    "id": 195,
+    "uid2": 0,
+    "name": "BCE FM Tacho Protocol",
+    "hw_category": "",
+    "tp": "21229",
+    "up": "0"
+  },
+  {
+    "id": 197,
+    "uid2": 0,
+    "name": "BCE FMS500 Light",
+    "hw_category": "auto",
+    "tp": "21468",
+    "up": "21468"
+  },
+  {
+    "id": 200,
+    "uid2": 0,
+    "name": "BCE FMS500 Light+",
+    "hw_category": "auto",
+    "tp": "21469",
+    "up": "21469"
+  },
+  {
+    "id": 193,
+    "uid2": 0,
+    "name": "BCE FMS500 ONE",
+    "hw_category": "auto",
+    "tp": "21467",
+    "up": "21467"
+  },
+  {
+    "id": 194,
+    "uid2": 0,
+    "name": "BCE FMS500 StCAN",
+    "hw_category": "auto",
+    "tp": "21625",
+    "up": "21625"
+  },
+  {
+    "id": 909,
+    "uid2": 0,
+    "name": "BCE FMS500 TACHO",
+    "hw_category": "auto",
+    "tp": "21942",
+    "up": "21942"
+  },
+  {
+    "id": 192,
+    "uid2": 0,
+    "name": "BCE IOTM",
+    "hw_category": "auto",
+    "tp": "21501",
+    "up": "21501"
+  },
+  {
+    "id": 216,
+    "uid2": 0,
+    "name": "BI 520 TREK",
+    "hw_category": "",
+    "tp": "21172",
+    "up": "0"
+  },
+  {
+    "id": 206,
+    "uid2": 0,
+    "name": "BI 520 TREK R",
+    "hw_category": "",
+    "tp": "21173",
+    "up": "0"
+  },
+  {
+    "id": 217,
+    "uid2": 0,
+    "name": "BI 530R TREK",
+    "hw_category": "",
+    "tp": "21530",
+    "up": "21530"
+  },
+  {
+    "id": 210,
+    "uid2": 0,
+    "name": "BI 810 CONNECT",
+    "hw_category": "",
+    "tp": "21263",
+    "up": "0"
+  },
+  {
+    "id": 208,
+    "uid2": 0,
+    "name": "BI 810 TREK",
+    "hw_category": "",
+    "tp": "21163",
+    "up": "0"
+  },
+  {
+    "id": 214,
+    "uid2": 0,
+    "name": "BI 820 CONNECT",
+    "hw_category": "",
+    "tp": "21264",
+    "up": "0"
+  },
+  {
+    "id": 212,
+    "uid2": 0,
+    "name": "BI 820 TREK",
+    "hw_category": "",
+    "tp": "21164",
+    "up": "0"
+  },
+  {
+    "id": 215,
+    "uid2": 0,
+    "name": "BI 820 TREK OBD",
+    "hw_category": "",
+    "tp": "21165",
+    "up": "0"
+  },
+  {
+    "id": 205,
+    "uid2": 0,
+    "name": "BI 868 TREK",
+    "hw_category": "",
+    "tp": "21166",
+    "up": "0"
+  },
+  {
+    "id": 209,
+    "uid2": 0,
+    "name": "BI 910 TREK",
+    "hw_category": "",
+    "tp": "21167",
+    "up": "0"
+  },
+  {
+    "id": 204,
+    "uid2": 0,
+    "name": "BI 920 TREK",
+    "hw_category": "",
+    "tp": "21162",
+    "up": "0"
+  },
+  {
+    "id": 207,
+    "uid2": 0,
+    "name": "Bitrek",
+    "hw_category": "",
+    "tp": "20667",
+    "up": "20667"
+  },
+  {
+    "id": 211,
+    "uid2": 0,
+    "name": "Bitrek BI 310",
+    "hw_category": "auto",
+    "tp": "20700",
+    "up": "0"
+  },
+  {
+    "id": 28,
+    "uid2": 0,
+    "name": "cGuard",
+    "hw_category": "auto",
+    "tp": "20485",
+    "up": "0"
+  },
+  {
+    "id": 30,
+    "uid2": 0,
+    "name": "cGuard Beacon",
+    "hw_category": "auto",
+    "tp": "21208",
+    "up": "0"
+  },
+  {
+    "id": 29,
+    "uid2": 0,
+    "name": "cGuard Personal",
+    "hw_category": "auto",
+    "tp": "20823",
+    "up": "0"
+  },
+  {
+    "id": 203,
+    "uid2": 0,
+    "name": "CKPT 25",
+    "hw_category": "auto",
+    "tp": "20311",
+    "up": "0"
+  },
+  {
+    "id": 202,
+    "uid2": 0,
+    "name": "CKPT 45",
+    "hw_category": "auto",
+    "tp": "20152",
+    "up": "0"
+  },
+  {
+    "id": 1154,
+    "uid2": 0,
+    "name": "Distance Tag",
+    "hw_category": "mobile",
+    "tp": "21976",
+    "up": "0"
+  },
+  {
+    "id": 74,
+    "uid2": 0,
+    "name": "FAS Standard",
+    "hw_category": "",
+    "tp": "20419",
+    "up": "0"
+  },
+  {
+    "id": 13,
+    "uid2": 0,
+    "name": "flespi gateway",
+    "hw_category": "",
+    "tp": "21548",
+    "up": "0"
+  },
+  {
+    "id": 797,
+    "uid2": 0,
+    "name": "GL300M",
+    "hw_category": "",
+    "tp": "21845",
+    "up": "21845"
+  },
+  {
+    "id": 5,
+    "uid2": 0,
+    "name": "GPS Tag",
+    "hw_category": "mobile",
+    "tp": "20460",
+    "up": "0"
+  },
+  {
+    "id": 44,
+    "uid2": 0,
+    "name": "GT30\/GT60",
+    "hw_category": "tracker",
+    "tp": "20156",
+    "up": "0"
+  },
+  {
+    "id": 910,
+    "uid2": 0,
+    "name": "MDVR Module (3G) BITREK",
+    "hw_category": "video_8_o",
+    "tp": "21941",
+    "up": "21941"
+  },
+  {
+    "id": 855,
+    "uid2": 0,
+    "name": "Meitrack K211G",
+    "hw_category": "",
+    "tp": "21871",
+    "up": "0"
+  },
+  {
+    "id": 794,
+    "uid2": 0,
+    "name": "Meitrack MD522S",
+    "hw_category": "video_8_o_cmd",
+    "tp": "21792",
+    "up": "21792"
+  },
+  {
+    "id": 1139,
+    "uid2": 0,
+    "name": "Meitrack MD811H",
+    "hw_category": "video_8_o_cmd",
+    "tp": "21973",
+    "up": "21973"
+  },
+  {
+    "id": 1140,
+    "uid2": 0,
+    "name": "Meitrack MD822S",
+    "hw_category": "video_8_o_cmd",
+    "tp": "21974",
+    "up": "21974"
+  },
+  {
+    "id": 33,
+    "uid2": 0,
+    "name": "Meitrack MT80i",
+    "hw_category": "",
+    "tp": "20242",
+    "up": "0"
+  },
+  {
+    "id": 38,
+    "uid2": 0,
+    "name": "Meitrack MT90",
+    "hw_category": "",
+    "tp": "20523",
+    "up": "20523"
+  },
+  {
+    "id": 1138,
+    "uid2": 0,
+    "name": "Meitrack P88L",
+    "hw_category": "",
+    "tp": "21972",
+    "up": "21972"
+  },
+  {
+    "id": 37,
+    "uid2": 0,
+    "name": "Meitrack P99G",
+    "hw_category": "",
+    "tp": "21416",
+    "up": "0"
+  },
+  {
+    "id": 39,
+    "uid2": 0,
+    "name": "Meitrack T1",
+    "hw_category": "",
+    "tp": "20757",
+    "up": "0"
+  },
+  {
+    "id": 36,
+    "uid2": 0,
+    "name": "Meitrack T311",
+    "hw_category": "",
+    "tp": "21187",
+    "up": "0"
+  },
+  {
+    "id": 48,
+    "uid2": 0,
+    "name": "Meitrack T322",
+    "hw_category": "auto",
+    "tp": "20818",
+    "up": "0"
+  },
+  {
+    "id": 31,
+    "uid2": 0,
+    "name": "Meitrack T333",
+    "hw_category": "",
+    "tp": "21136",
+    "up": "0"
+  },
+  {
+    "id": 42,
+    "uid2": 0,
+    "name": "Meitrack T355",
+    "hw_category": "",
+    "tp": "21189",
+    "up": "0"
+  },
+  {
+    "id": 43,
+    "uid2": 0,
+    "name": "Meitrack T366",
+    "hw_category": "",
+    "tp": "21463",
+    "up": "0"
+  },
+  {
+    "id": 32,
+    "uid2": 0,
+    "name": "Meitrack T366G",
+    "hw_category": "",
+    "tp": "21365",
+    "up": "21365"
+  },
+  {
+    "id": 49,
+    "uid2": 0,
+    "name": "Meitrack T622",
+    "hw_category": "",
+    "tp": "21112",
+    "up": "21112"
+  },
+  {
+    "id": 857,
+    "uid2": 0,
+    "name": "Meitrack T633L",
+    "hw_category": "",
+    "tp": "21910",
+    "up": "0"
+  },
+  {
+    "id": 40,
+    "uid2": 0,
+    "name": "Meitrack TC68",
+    "hw_category": "",
+    "tp": "20710",
+    "up": "0"
+  },
+  {
+    "id": 856,
+    "uid2": 0,
+    "name": "Meitrack TC68L",
+    "hw_category": "",
+    "tp": "21909",
+    "up": "0"
+  },
+  {
+    "id": 51,
+    "uid2": 0,
+    "name": "Meitrack TC68SG",
+    "hw_category": "",
+    "tp": "21489",
+    "up": "21489"
+  },
+  {
+    "id": 50,
+    "uid2": 0,
+    "name": "Meitrack Trackids",
+    "hw_category": "",
+    "tp": "21240",
+    "up": "21240"
+  },
+  {
+    "id": 213,
+    "uid2": 0,
+    "name": "MeteoTrek",
+    "hw_category": "",
+    "tp": "21168",
+    "up": "0"
+  },
+  {
+    "id": 8,
+    "uid2": 0,
+    "name": "MGPS Tracer",
+    "hw_category": "mobile",
+    "tp": "0",
+    "up": "20158"
+  },
+  {
+    "id": 55,
+    "uid2": 0,
+    "name": "MIELTA M1",
+    "hw_category": "",
+    "tp": "21627",
+    "up": "21627"
+  },
+  {
+    "id": 57,
+    "uid2": 0,
+    "name": "MIELTA M3",
+    "hw_category": "",
+    "tp": "21204",
+    "up": "0"
+  },
+  {
+    "id": 56,
+    "uid2": 0,
+    "name": "MIELTA M7",
+    "hw_category": "",
+    "tp": "21628",
+    "up": "21628"
+  },
+  {
+    "id": 7,
+    "uid2": 0,
+    "name": "Mobile GPS",
+    "hw_category": "mobile",
+    "tp": "20102",
+    "up": "0"
+  },
+  {
+    "id": 10,
+    "uid2": 0,
+    "name": "Mobile Navigator",
+    "hw_category": "mobile",
+    "tp": "20189",
+    "up": "0"
+  },
+  {
+    "id": 54,
+    "uid2": 0,
+    "name": "MT80",
+    "hw_category": "tracker",
+    "tp": "20264",
+    "up": "0"
+  },
+  {
+    "id": 46,
+    "uid2": 0,
+    "name": "MT88",
+    "hw_category": "",
+    "tp": "20263",
+    "up": "20263"
+  },
+  {
+    "id": 35,
+    "uid2": 0,
+    "name": "MVT100",
+    "hw_category": "auto",
+    "tp": "20262",
+    "up": "0"
+  },
+  {
+    "id": 45,
+    "uid2": 0,
+    "name": "MVT340",
+    "hw_category": "",
+    "tp": "20258",
+    "up": "20258"
+  },
+  {
+    "id": 52,
+    "uid2": 0,
+    "name": "MVT380",
+    "hw_category": "",
+    "tp": "20261",
+    "up": "20261"
+  },
+  {
+    "id": 47,
+    "uid2": 0,
+    "name": "MVT400",
+    "hw_category": "auto",
+    "tp": "20269",
+    "up": "0"
+  },
+  {
+    "id": 53,
+    "uid2": 0,
+    "name": "MVT600",
+    "hw_category": "auto",
+    "tp": "20259",
+    "up": "0"
+  },
+  {
+    "id": 41,
+    "uid2": 0,
+    "name": "MVT800",
+    "hw_category": "",
+    "tp": "20861",
+    "up": "20861"
+  },
+  {
+    "id": 58,
+    "uid2": 0,
+    "name": "Navitrack GSTM32V2",
+    "hw_category": "auto",
+    "tp": "20782",
+    "up": "20782"
+  },
+  {
+    "id": 63,
+    "uid2": 0,
+    "name": "Navtelecom Signal S-2551",
+    "hw_category": "",
+    "tp": "20740",
+    "up": "20740"
+  },
+  {
+    "id": 60,
+    "uid2": 0,
+    "name": "Navtelecom Signal S-2550",
+    "hw_category": "",
+    "tp": "20871",
+    "up": "20871"
+  },
+  {
+    "id": 61,
+    "uid2": 0,
+    "name": "Navtelecom Signal S-2117",
+    "hw_category": "",
+    "tp": "20541",
+    "up": "0"
+  },
+  {
+    "id": 64,
+    "uid2": 0,
+    "name": "Navtelecom Signal S-2115",
+    "hw_category": "",
+    "tp": "20367",
+    "up": "20367"
+  },
+  {
+    "id": 858,
+    "uid2": 0,
+    "name": "Navtelecom Signal S-26xx",
+    "hw_category": "",
+    "tp": "21889",
+    "up": "21889"
+  },
+  {
+    "id": 59,
+    "uid2": 0,
+    "name": "Navtelecom SMART S-24xx",
+    "hw_category": "",
+    "tp": "21626",
+    "up": "21626"
+  },
+  {
+    "id": 62,
+    "uid2": 0,
+    "name": "Navtelecom SMART S-23xx",
+    "hw_category": "",
+    "tp": "20966",
+    "up": "20966"
+  },
+  {
+    "id": 65,
+    "uid2": 0,
+    "name": "Navtrack GT3501",
+    "hw_category": "tracker",
+    "tp": "21089",
+    "up": "0"
+  },
+  {
+    "id": 73,
+    "uid2": 0,
+    "name": "Omnicomm Light",
+    "hw_category": "auto",
+    "tp": "20858",
+    "up": "0"
+  },
+  {
+    "id": 72,
+    "uid2": 0,
+    "name": "Omnicomm Optim",
+    "hw_category": "auto",
+    "tp": "20618",
+    "up": "0"
+  },
+  {
+    "id": 75,
+    "uid2": 0,
+    "name": "Omnicomm Profi",
+    "hw_category": "auto",
+    "tp": "20617",
+    "up": "0"
+  },
+  {
+    "id": 110,
+    "uid2": 0,
+    "name": "Queclink GB100",
+    "hw_category": "auto",
+    "tp": "21414",
+    "up": "21414"
+  },
+  {
+    "id": 795,
+    "uid2": 0,
+    "name": "Queclink GL50B",
+    "hw_category": "auto",
+    "tp": "21773",
+    "up": "21773"
+  },
+  {
+    "id": 106,
+    "uid2": 0,
+    "name": "Queclink GL100",
+    "hw_category": "tracker",
+    "tp": "20190",
+    "up": "0"
+  },
+  {
+    "id": 93,
+    "uid2": 0,
+    "name": "Queclink GL100M",
+    "hw_category": "tracker",
+    "tp": "20433",
+    "up": "0"
+  },
+  {
+    "id": 86,
+    "uid2": 0,
+    "name": "Queclink GL200",
+    "hw_category": "tracker",
+    "tp": "20334",
+    "up": "20334"
+  },
+  {
+    "id": 96,
+    "uid2": 0,
+    "name": "Queclink GL300",
+    "hw_category": "tracker",
+    "tp": "20706",
+    "up": "20706"
+  },
+  {
+    "id": 82,
+    "uid2": 0,
+    "name": "Queclink GL300A",
+    "hw_category": "",
+    "tp": "21715",
+    "up": "21715"
+  },
+  {
+    "id": 98,
+    "uid2": 0,
+    "name": "Queclink GL300VC",
+    "hw_category": "tracker",
+    "tp": "21054",
+    "up": "21054"
+  },
+  {
+    "id": 111,
+    "uid2": 0,
+    "name": "Queclink GL300W",
+    "hw_category": "",
+    "tp": "21478",
+    "up": "21478"
+  },
+  {
+    "id": 85,
+    "uid2": 0,
+    "name": "Queclink GL500",
+    "hw_category": "tracker",
+    "tp": "20652",
+    "up": "0"
+  },
+  {
+    "id": 113,
+    "uid2": 0,
+    "name": "Queclink GL500M",
+    "hw_category": "",
+    "tp": "21712",
+    "up": "21712"
+  },
+  {
+    "id": 979,
+    "uid2": 0,
+    "name": "Queclink GL501 LTE",
+    "hw_category": "",
+    "tp": "21948",
+    "up": "21948"
+  },
+  {
+    "id": 95,
+    "uid2": 0,
+    "name": "Queclink GL505",
+    "hw_category": "tracker",
+    "tp": "20658",
+    "up": "0"
+  },
+  {
+    "id": 99,
+    "uid2": 0,
+    "name": "Queclink GL520",
+    "hw_category": "tracker",
+    "tp": "21413",
+    "up": "0"
+  },
+  {
+    "id": 905,
+    "uid2": 0,
+    "name": "Queclink GL530",
+    "hw_category": "tracker",
+    "tp": "21940",
+    "up": "21940"
+  },
+  {
+    "id": 100,
+    "uid2": 0,
+    "name": "Queclink GL3028W",
+    "hw_category": "",
+    "tp": "21483",
+    "up": "0"
+  },
+  {
+    "id": 84,
+    "uid2": 0,
+    "name": "Queclink GMT100",
+    "hw_category": "auto",
+    "tp": "20546",
+    "up": "0"
+  },
+  {
+    "id": 76,
+    "uid2": 0,
+    "name": "Queclink GMT200",
+    "hw_category": "auto",
+    "tp": "20850",
+    "up": "0"
+  },
+  {
+    "id": 78,
+    "uid2": 0,
+    "name": "Queclink GS100",
+    "hw_category": "",
+    "tp": "21182",
+    "up": "21182"
+  },
+  {
+    "id": 92,
+    "uid2": 0,
+    "name": "Queclink GT200",
+    "hw_category": "tracker",
+    "tp": "20408",
+    "up": "0"
+  },
+  {
+    "id": 103,
+    "uid2": 0,
+    "name": "Queclink GT300",
+    "hw_category": "tracker",
+    "tp": "20409",
+    "up": "0"
+  },
+  {
+    "id": 88,
+    "uid2": 0,
+    "name": "Queclink GT301",
+    "hw_category": "",
+    "tp": "21309",
+    "up": "0"
+  },
+  {
+    "id": 94,
+    "uid2": 0,
+    "name": "Queclink GT500",
+    "hw_category": "tracker",
+    "tp": "20630",
+    "up": "0"
+  },
+  {
+    "id": 80,
+    "uid2": 0,
+    "name": "Queclink GV50",
+    "hw_category": "",
+    "tp": "21554",
+    "up": "21554"
+  },
+  {
+    "id": 977,
+    "uid2": 0,
+    "name": "Queclink GV50 LTE",
+    "hw_category": "",
+    "tp": "21949",
+    "up": "21949"
+  },
+  {
+    "id": 90,
+    "uid2": 0,
+    "name": "Queclink GV50LTA",
+    "hw_category": "",
+    "tp": "21555",
+    "up": "21555"
+  },
+  {
+    "id": 112,
+    "uid2": 0,
+    "name": "Queclink GV50M",
+    "hw_category": "",
+    "tp": "21645",
+    "up": "21645"
+  },
+  {
+    "id": 81,
+    "uid2": 0,
+    "name": "Queclink GV50VC",
+    "hw_category": "",
+    "tp": "21703",
+    "up": "21703"
+  },
+  {
+    "id": 97,
+    "uid2": 0,
+    "name": "Queclink GV55",
+    "hw_category": "auto",
+    "tp": "20979",
+    "up": "20979"
+  },
+  {
+    "id": 105,
+    "uid2": 0,
+    "name": "Queclink GV55 Lite",
+    "hw_category": "auto",
+    "tp": "20634",
+    "up": "20634"
+  },
+  {
+    "id": 91,
+    "uid2": 0,
+    "name": "Queclink GV56",
+    "hw_category": "",
+    "tp": "21707",
+    "up": "21707"
+  },
+  {
+    "id": 646,
+    "uid2": 0,
+    "name": "Queclink GV56RS",
+    "hw_category": "",
+    "tp": "21730",
+    "up": "21730"
+  },
+  {
+    "id": 108,
+    "uid2": 0,
+    "name": "Queclink GV65",
+    "hw_category": "auto",
+    "tp": "20980",
+    "up": "0"
+  },
+  {
+    "id": 107,
+    "uid2": 0,
+    "name": "Queclink GV65 Lite",
+    "hw_category": "auto",
+    "tp": "20789",
+    "up": "0"
+  },
+  {
+    "id": 77,
+    "uid2": 0,
+    "name": "Queclink GV65 Plus",
+    "hw_category": "auto",
+    "tp": "20981",
+    "up": "0"
+  },
+  {
+    "id": 109,
+    "uid2": 0,
+    "name": "Queclink GV75",
+    "hw_category": "auto",
+    "tp": "21127",
+    "up": "21127"
+  },
+  {
+    "id": 978,
+    "uid2": 0,
+    "name": "Queclink GV75 LTE",
+    "hw_category": "",
+    "tp": "21947",
+    "up": "21947"
+  },
+  {
+    "id": 911,
+    "uid2": 0,
+    "name": "Queclink GV75M",
+    "hw_category": "",
+    "tp": "21944",
+    "up": "21944"
+  },
+  {
+    "id": 859,
+    "uid2": 0,
+    "name": "Queclink GV75W",
+    "hw_category": "",
+    "tp": "21881",
+    "up": "21881"
+  },
+  {
+    "id": 83,
+    "uid2": 0,
+    "name": "Queclink GV100",
+    "hw_category": "auto",
+    "tp": "20426",
+    "up": "0"
+  },
+  {
+    "id": 114,
+    "uid2": 0,
+    "name": "Queclink GV200",
+    "hw_category": "auto",
+    "tp": "20420",
+    "up": "20420"
+  },
+  {
+    "id": 115,
+    "uid2": 0,
+    "name": "Queclink GV200G",
+    "hw_category": "auto",
+    "tp": "20503",
+    "up": "0"
+  },
+  {
+    "id": 104,
+    "uid2": 0,
+    "name": "Queclink GV300",
+    "hw_category": "auto",
+    "tp": "20479",
+    "up": "20479"
+  },
+  {
+    "id": 804,
+    "uid2": 0,
+    "name": "Queclink GV300CAN",
+    "hw_category": "",
+    "tp": "21856",
+    "up": "21856"
+  },
+  {
+    "id": 766,
+    "uid2": 0,
+    "name": "Queclink GV300W",
+    "hw_category": "",
+    "tp": "21795",
+    "up": "21795"
+  },
+  {
+    "id": 116,
+    "uid2": 0,
+    "name": "Queclink GV320",
+    "hw_category": "auto",
+    "tp": "20644",
+    "up": "0"
+  },
+  {
+    "id": 102,
+    "uid2": 0,
+    "name": "Queclink GV350M",
+    "hw_category": "",
+    "tp": "21709",
+    "up": "21709"
+  },
+  {
+    "id": 87,
+    "uid2": 0,
+    "name": "Queclink GV500",
+    "hw_category": "auto",
+    "tp": "20732",
+    "up": "20732"
+  },
+  {
+    "id": 767,
+    "uid2": 0,
+    "name": "Queclink GV600MA",
+    "hw_category": "auto",
+    "tp": "21820",
+    "up": "21820"
+  },
+  {
+    "id": 79,
+    "uid2": 0,
+    "name": "Queclink GV600W",
+    "hw_category": "auto",
+    "tp": "21418",
+    "up": "21418"
+  },
+  {
+    "id": 89,
+    "uid2": 0,
+    "name": "Queclink GV628W",
+    "hw_category": "auto",
+    "tp": "21419",
+    "up": "21419"
+  },
+  {
+    "id": 101,
+    "uid2": 0,
+    "name": "Queclink GV800",
+    "hw_category": "",
+    "tp": "21644",
+    "up": "21644"
+  },
+  {
+    "id": 123,
+    "uid2": 0,
+    "name": "Ruptela FM Eco3",
+    "hw_category": "",
+    "tp": "20371",
+    "up": "20371"
+  },
+  {
+    "id": 117,
+    "uid2": 0,
+    "name": "Ruptela FM Eco4",
+    "hw_category": "",
+    "tp": "20898",
+    "up": "20898"
+  },
+  {
+    "id": 118,
+    "uid2": 0,
+    "name": "Ruptela FM Eco4 Light",
+    "hw_category": "",
+    "tp": "21043",
+    "up": "21043"
+  },
+  {
+    "id": 686,
+    "uid2": 0,
+    "name": "Ruptela FM Eco4 S",
+    "hw_category": "",
+    "tp": "21745",
+    "up": "21745"
+  },
+  {
+    "id": 124,
+    "uid2": 0,
+    "name": "Ruptela FM Plug4",
+    "hw_category": "",
+    "tp": "21037",
+    "up": "21037"
+  },
+  {
+    "id": 121,
+    "uid2": 0,
+    "name": "Ruptela FM Plug4+",
+    "hw_category": "",
+    "tp": "21148",
+    "up": "21148"
+  },
+  {
+    "id": 125,
+    "uid2": 0,
+    "name": "Ruptela FM Pro3",
+    "hw_category": "",
+    "tp": "20380",
+    "up": "20380"
+  },
+  {
+    "id": 122,
+    "uid2": 0,
+    "name": "Ruptela FM Pro4",
+    "hw_category": "",
+    "tp": "20956",
+    "up": "20956"
+  },
+  {
+    "id": 119,
+    "uid2": 0,
+    "name": "Ruptela FM Tco3",
+    "hw_category": "",
+    "tp": "20444",
+    "up": "20444"
+  },
+  {
+    "id": 120,
+    "uid2": 0,
+    "name": "Ruptela FM Tco4",
+    "hw_category": "",
+    "tp": "20913",
+    "up": "20913"
+  },
+  {
+    "id": 219,
+    "uid2": 0,
+    "name": "Skipper 01-E\/EM",
+    "hw_category": "auto",
+    "tp": "20373",
+    "up": "0"
+  },
+  {
+    "id": 218,
+    "uid2": 0,
+    "name": "Skipper GPRS",
+    "hw_category": "auto",
+    "tp": "20104",
+    "up": "0"
+  },
+  {
+    "id": 6,
+    "uid2": 0,
+    "name": "Tachograph card",
+    "hw_category": "",
+    "tp": "21077",
+    "up": "0"
+  },
+  {
+    "id": 138,
+    "uid2": 0,
+    "name": "Teltonika AT1000",
+    "hw_category": "",
+    "tp": "20225",
+    "up": "20225"
+  },
+  {
+    "id": 142,
+    "uid2": 0,
+    "name": "Teltonika AT2000",
+    "hw_category": "auto",
+    "tp": "21194",
+    "up": "0"
+  },
+  {
+    "id": 798,
+    "uid2": 0,
+    "name": "Teltonika FM36M1",
+    "hw_category": "",
+    "tp": "21844",
+    "up": "21844"
+  },
+  {
+    "id": 154,
+    "uid2": 0,
+    "name": "Teltonika FM1000",
+    "hw_category": "",
+    "tp": "21140",
+    "up": "0"
+  },
+  {
+    "id": 127,
+    "uid2": 0,
+    "name": "Teltonika FM1010",
+    "hw_category": "",
+    "tp": "21072",
+    "up": "21072"
+  },
+  {
+    "id": 162,
+    "uid2": 0,
+    "name": "Teltonika FM1100",
+    "hw_category": "",
+    "tp": "20412",
+    "up": "20412"
+  },
+  {
+    "id": 166,
+    "uid2": 0,
+    "name": "Teltonika FM1110",
+    "hw_category": "",
+    "tp": "21071",
+    "up": "21071"
+  },
+  {
+    "id": 152,
+    "uid2": 0,
+    "name": "Teltonika FM1120",
+    "hw_category": "",
+    "tp": "21064",
+    "up": "21064"
+  },
+  {
+    "id": 140,
+    "uid2": 0,
+    "name": "Teltonika FM1122",
+    "hw_category": "",
+    "tp": "21073",
+    "up": "21073"
+  },
+  {
+    "id": 141,
+    "uid2": 0,
+    "name": "Teltonika FM1125",
+    "hw_category": "",
+    "tp": "21087",
+    "up": "21087"
+  },
+  {
+    "id": 165,
+    "uid2": 0,
+    "name": "Teltonika FM1200",
+    "hw_category": "",
+    "tp": "20727",
+    "up": "20727"
+  },
+  {
+    "id": 153,
+    "uid2": 0,
+    "name": "Teltonika FM1202",
+    "hw_category": "",
+    "tp": "21075",
+    "up": "21075"
+  },
+  {
+    "id": 167,
+    "uid2": 0,
+    "name": "Teltonika FM1204",
+    "hw_category": "",
+    "tp": "21076",
+    "up": "21076"
+  },
+  {
+    "id": 149,
+    "uid2": 0,
+    "name": "Teltonika FM2200",
+    "hw_category": "",
+    "tp": "20210",
+    "up": "20210"
+  },
+  {
+    "id": 160,
+    "uid2": 0,
+    "name": "Teltonika FM3001",
+    "hw_category": "",
+    "tp": "21597",
+    "up": "21597"
+  },
+  {
+    "id": 136,
+    "uid2": 0,
+    "name": "Teltonika FM3101",
+    "hw_category": "auto",
+    "tp": "20116",
+    "up": "0"
+  },
+  {
+    "id": 164,
+    "uid2": 0,
+    "name": "Teltonika FM3200",
+    "hw_category": "",
+    "tp": "20538",
+    "up": "20538"
+  },
+  {
+    "id": 126,
+    "uid2": 0,
+    "name": "Teltonika FM3300",
+    "hw_category": "",
+    "tp": "21014",
+    "up": "21014"
+  },
+  {
+    "id": 128,
+    "uid2": 0,
+    "name": "Teltonika FM3400",
+    "hw_category": "",
+    "tp": "21078",
+    "up": "21078"
+  },
+  {
+    "id": 169,
+    "uid2": 0,
+    "name": "Teltonika FM3600",
+    "hw_category": "",
+    "tp": "21275",
+    "up": "0"
+  },
+  {
+    "id": 146,
+    "uid2": 0,
+    "name": "Teltonika FM3612",
+    "hw_category": "",
+    "tp": "21456",
+    "up": "21456"
+  },
+  {
+    "id": 155,
+    "uid2": 0,
+    "name": "Teltonika FM3620",
+    "hw_category": "",
+    "tp": "21274",
+    "up": "0"
+  },
+  {
+    "id": 133,
+    "uid2": 0,
+    "name": "Teltonika FM3622",
+    "hw_category": "",
+    "tp": "21457",
+    "up": "21457"
+  },
+  {
+    "id": 163,
+    "uid2": 0,
+    "name": "Teltonika FM4100",
+    "hw_category": "",
+    "tp": "20127",
+    "up": "20127"
+  },
+  {
+    "id": 150,
+    "uid2": 0,
+    "name": "Teltonika FM4200",
+    "hw_category": "",
+    "tp": "20255",
+    "up": "20255"
+  },
+  {
+    "id": 137,
+    "uid2": 0,
+    "name": "Teltonika FM5300",
+    "hw_category": "",
+    "tp": "20445",
+    "up": "20445"
+  },
+  {
+    "id": 139,
+    "uid2": 0,
+    "name": "Teltonika FM5500",
+    "hw_category": "",
+    "tp": "21039",
+    "up": "21039"
+  },
+  {
+    "id": 865,
+    "uid2": 0,
+    "name": "Teltonika FM6300",
+    "hw_category": "",
+    "tp": "21906",
+    "up": "21906"
+  },
+  {
+    "id": 168,
+    "uid2": 0,
+    "name": "Teltonika FM6320",
+    "hw_category": "",
+    "tp": "21209",
+    "up": "21209"
+  },
+  {
+    "id": 156,
+    "uid2": 0,
+    "name": "Teltonika FMA110",
+    "hw_category": "",
+    "tp": "21342",
+    "up": "21342"
+  },
+  {
+    "id": 170,
+    "uid2": 0,
+    "name": "Teltonika FMA120",
+    "hw_category": "",
+    "tp": "21343",
+    "up": "21343"
+  },
+  {
+    "id": 132,
+    "uid2": 0,
+    "name": "Teltonika FMA202",
+    "hw_category": "",
+    "tp": "21449",
+    "up": "21449"
+  },
+  {
+    "id": 145,
+    "uid2": 0,
+    "name": "Teltonika FMA204",
+    "hw_category": "",
+    "tp": "21450",
+    "up": "21450"
+  },
+  {
+    "id": 131,
+    "uid2": 0,
+    "name": "Teltonika FMB001",
+    "hw_category": "",
+    "tp": "21359",
+    "up": "21359"
+  },
+  {
+    "id": 144,
+    "uid2": 0,
+    "name": "Teltonika FMB010",
+    "hw_category": "",
+    "tp": "21360",
+    "up": "21360"
+  },
+  {
+    "id": 147,
+    "uid2": 0,
+    "name": "Teltonika FMB110",
+    "hw_category": "",
+    "tp": "21590",
+    "up": "21590"
+  },
+  {
+    "id": 172,
+    "uid2": 0,
+    "name": "Teltonika FMB120",
+    "hw_category": "",
+    "tp": "21446",
+    "up": "21446"
+  },
+  {
+    "id": 157,
+    "uid2": 0,
+    "name": "Teltonika FMB122",
+    "hw_category": "",
+    "tp": "21447",
+    "up": "21447"
+  },
+  {
+    "id": 171,
+    "uid2": 0,
+    "name": "Teltonika FMB125",
+    "hw_category": "",
+    "tp": "21448",
+    "up": "21448"
+  },
+  {
+    "id": 860,
+    "uid2": 0,
+    "name": "Teltonika FMB130",
+    "hw_category": "",
+    "tp": "21920",
+    "up": "21920"
+  },
+  {
+    "id": 863,
+    "uid2": 0,
+    "name": "Teltonika FMB140",
+    "hw_category": "",
+    "tp": "21921",
+    "up": "21921"
+  },
+  {
+    "id": 135,
+    "uid2": 0,
+    "name": "Teltonika FMB202",
+    "hw_category": "",
+    "tp": "21662",
+    "up": "21662"
+  },
+  {
+    "id": 148,
+    "uid2": 0,
+    "name": "Teltonika FMB204",
+    "hw_category": "",
+    "tp": "21663",
+    "up": "21663"
+  },
+  {
+    "id": 867,
+    "uid2": 0,
+    "name": "Teltonika FMB207",
+    "hw_category": "",
+    "tp": "21907",
+    "up": "21907"
+  },
+  {
+    "id": 158,
+    "uid2": 1,
+    "name": "Teltonika FMB630",
+    "hw_category": "",
+    "tp": "21451",
+    "up": "21451"
+  },
+  {
+    "id": 712,
+    "uid2": 1,
+    "name": "Teltonika FMB640",
+    "hw_category": "",
+    "tp": "21756",
+    "up": "0"
+  },
+  {
+    "id": 130,
+    "uid2": 0,
+    "name": "Teltonika FMB900",
+    "hw_category": "",
+    "tp": "21327",
+    "up": "21327"
+  },
+  {
+    "id": 143,
+    "uid2": 0,
+    "name": "Teltonika FMB920",
+    "hw_category": "",
+    "tp": "21328",
+    "up": "21328"
+  },
+  {
+    "id": 173,
+    "uid2": 0,
+    "name": "Teltonika FMB962",
+    "hw_category": "",
+    "tp": "21516",
+    "up": "21516"
+  },
+  {
+    "id": 134,
+    "uid2": 0,
+    "name": "Teltonika FMB964",
+    "hw_category": "",
+    "tp": "21517",
+    "up": "21517"
+  },
+  {
+    "id": 992,
+    "uid2": 0,
+    "name": "Teltonika FMC001",
+    "hw_category": "",
+    "tp": "21965",
+    "up": "21965"
+  },
+  {
+    "id": 806,
+    "uid2": 0,
+    "name": "Teltonika FMC130",
+    "hw_category": "",
+    "tp": "21860",
+    "up": "21860"
+  },
+  {
+    "id": 809,
+    "uid2": 0,
+    "name": "Teltonika FMM130",
+    "hw_category": "",
+    "tp": "21859",
+    "up": "21859"
+  },
+  {
+    "id": 174,
+    "uid2": 0,
+    "name": "Teltonika FMT100",
+    "hw_category": "",
+    "tp": "21661",
+    "up": "21661"
+  },
+  {
+    "id": 807,
+    "uid2": 0,
+    "name": "Teltonika FMU125",
+    "hw_category": "",
+    "tp": "21861",
+    "up": "21861"
+  },
+  {
+    "id": 808,
+    "uid2": 0,
+    "name": "Teltonika FMU130",
+    "hw_category": "",
+    "tp": "21858",
+    "up": "21858"
+  },
+  {
+    "id": 176,
+    "uid2": 0,
+    "name": "Teltonika GH1201",
+    "hw_category": "",
+    "tp": "20119",
+    "up": "20119"
+  },
+  {
+    "id": 177,
+    "uid2": 0,
+    "name": "Teltonika GH3000",
+    "hw_category": "",
+    "tp": "20232",
+    "up": "20232"
+  },
+  {
+    "id": 129,
+    "uid2": 0,
+    "name": "Teltonika GH4000",
+    "hw_category": "",
+    "tp": "21216",
+    "up": "21216"
+  },
+  {
+    "id": 861,
+    "uid2": 0,
+    "name": "Teltonika GH5200",
+    "hw_category": "",
+    "tp": "21884",
+    "up": "21884"
+  },
+  {
+    "id": 151,
+    "uid2": 0,
+    "name": "Teltonika MH2000",
+    "hw_category": "",
+    "tp": "20344",
+    "up": "20344"
+  },
+  {
+    "id": 866,
+    "uid2": 0,
+    "name": "Teltonika MSP500",
+    "hw_category": "",
+    "tp": "21927",
+    "up": "21927"
+  },
+  {
+    "id": 862,
+    "uid2": 0,
+    "name": "Teltonika MTB100",
+    "hw_category": "",
+    "tp": "21901",
+    "up": "21901"
+  },
+  {
+    "id": 175,
+    "uid2": 0,
+    "name": "Teltonika RUT850",
+    "hw_category": "",
+    "tp": "21722",
+    "up": "21722"
+  },
+  {
+    "id": 159,
+    "uid2": 0,
+    "name": "Teltonika RUT955",
+    "hw_category": "",
+    "tp": "21488",
+    "up": "21488"
+  },
+  {
+    "id": 980,
+    "uid2": 0,
+    "name": "Teltonika RUTX11",
+    "hw_category": "",
+    "tp": "21957",
+    "up": "21957"
+  },
+  {
+    "id": 793,
+    "uid2": 0,
+    "name": "Teltonika Tachograph",
+    "hw_category": "",
+    "tp": "21807",
+    "up": "0"
+  },
+  {
+    "id": 161,
+    "uid2": 0,
+    "name": "Teltonika TMT250",
+    "hw_category": "",
+    "tp": "21684",
+    "up": "21684"
+  },
+  {
+    "id": 864,
+    "uid2": 0,
+    "name": "Teltonika TST100",
+    "hw_category": "",
+    "tp": "21900",
+    "up": "21900"
+  },
+  {
+    "id": 34,
+    "uid2": 0,
+    "name": "VT300\/VT310",
+    "hw_category": "auto",
+    "tp": "20180",
+    "up": "0"
+  },
+  {
+    "id": 9,
+    "uid2": 0,
+    "name": "Wialon Combine",
+    "hw_category": "",
+    "tp": "21000",
+    "up": "21000"
+  },
+  {
+    "id": 11,
+    "uid2": 0,
+    "name": "Wialon IPS",
+    "hw_category": "video_8_o",
+    "tp": "20332",
+    "up": "20332"
+  },
+  {
+    "id": 12,
+    "uid2": 0,
+    "name": "Wialon Retranslator",
+    "hw_category": "soft",
+    "tp": "20163",
+    "up": "0"
+  },
+  {
+    "id": 4,
+    "uid2": 0,
+    "name": "WiaTag",
+    "hw_category": "mobile",
+    "tp": "20963",
+    "up": "0"
+  },
+  {
+    "id": 185,
+    "uid2": 0,
+    "name": "Wonde Proud M7",
+    "hw_category": "tracker",
+    "tp": "20379",
+    "up": "0"
+  },
+  {
+    "id": 184,
+    "uid2": 1,
+    "name": "Wonde Proud OT10 Lite",
+    "hw_category": "auto",
+    "tp": "21028",
+    "up": "21028"
+  },
+  {
+    "id": 180,
+    "uid2": 0,
+    "name": "Wonde Proud SPT-100",
+    "hw_category": "auto",
+    "tp": "20230",
+    "up": "0"
+  },
+  {
+    "id": 179,
+    "uid2": 0,
+    "name": "Wonde Proud SPT-10",
+    "hw_category": "auto",
+    "tp": "20431",
+    "up": "0"
+  },
+  {
+    "id": 183,
+    "uid2": 0,
+    "name": "Wonde Proud VT-10",
+    "hw_category": "auto",
+    "tp": "20440",
+    "up": "20440"
+  },
+  {
+    "id": 181,
+    "uid2": 1,
+    "name": "Wonde Proud VT200",
+    "hw_category": "auto",
+    "tp": "20424",
+    "up": "20424"
+  },
+  {
+    "id": 178,
+    "uid2": 1,
+    "name": "Wonde Proud VT300",
+    "hw_category": "auto",
+    "tp": "20780",
+    "up": "0"
+  },
+  {
+    "id": 182,
+    "uid2": 1,
+    "name": "Wonde Proud VT350",
+    "hw_category": "auto",
+    "tp": "20781",
+    "up": "0"
+  },
+  {
+    "id": 189,
+    "uid2": 0,
+    "name": "Xexun TK-103",
+    "hw_category": "auto",
+    "tp": "20222",
+    "up": "0"
+  },
+  {
+    "id": 187,
+    "uid2": 0,
+    "name": "Xexun TK-102",
+    "hw_category": "",
+    "tp": "20157",
+    "up": "0"
+  },
+  {
+    "id": 190,
+    "uid2": 0,
+    "name": "Xexun TK102-2",
+    "hw_category": "",
+    "tp": "20668",
+    "up": "0"
+  },
+  {
+    "id": 188,
+    "uid2": 0,
+    "name": "Xexun TK103-2",
+    "hw_category": "",
+    "tp": "20462",
+    "up": "0"
+  },
+  {
+    "id": 186,
+    "uid2": 0,
+    "name": "XT-008",
+    "hw_category": "auto",
+    "tp": "20564",
+    "up": "0"
+  }
+]

@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/app/src/main/java/com/atk/app/core/repository/internet/utils/Constants.kt
+/app/ATKMobile.jks

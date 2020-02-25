@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/atkState"
+        android:orderInCategory="98"
+        android:title="@string/local_state"
+        app:actionLayout="@layout/custom_edit_row"
+        app:showAsAction="always"
+        tools:ignore="AlwaysShowAction" />
+    <item
+        android:id="@+id/localState"
+        android:orderInCategory="98"
+        android:title="@string/local_state"
+        app:actionLayout="@layout/custom_edit_row"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/hostingState"
+        android:orderInCategory="99"
+        android:title="@string/hosting_state"
+        app:actionLayout="@layout/custom_edit_row"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/clearFieldsItem"
+        android:title="@string/clear"
+        android:icon="@drawable/ic_delete"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/history"
+        android:title="@string/history"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+</menu>

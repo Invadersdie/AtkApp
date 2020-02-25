@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">A-automatics</string>
+    <string name="get_qr_code">Ввести Qr код</string>
+
+
+    <string name="clear">Отчистить</string>
+    <string name="createUnit">Создать объект</string>
+    <string name="no_qr_code_error">Qr код не получен</string>
+    <string name="no_permission">Нет разрешения</string>
+    <string name="no_access">Нет доступа к приложению"</string>
+
+    <string name="no_internet_error">Интернет отключен</string>
+
+    <string-array name="equipment_actions">
+        <item>Продажа</item>
+        <item>Тест</item>
+        <item>Замена</item>
+        <item>Рекламация</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="hosting_state">Hosting</string>
+    <string name="local_state">Local</string>
+    <string name="atk_base">ATK</string>
+    <string name="history">История</string>
+
+    <string name="endpoint_atk">http://86.57.207.140:5557/api/</string>
+    <string name="endpoint_local">https://local.atk-gps.by/wialon/</string>
+    <string name="endpoint_hosting">https://hst-api.wialon.com/wialon/</string>
+    <string name="com_auth0_client_id">e3d49fb540cb2b130d449f80e8e3f6611C304618D557A3F346208373B37EB6147DA9F6C8</string>
+    <string name="com_auth0_domain">dev-zf3npqw7.eu.auth0.com</string>
+    <string name="no_error">Нет ошибок</string>
+    <string name="success">Удачное выполнение операции</string>
+    <string name="invalid_session">Недействительная сессия</string>
+    <string name="wrong_service_name">Неверное имя сервиса</string>
+    <string name="wrong_result">Неверный результат</string>
+    <string name="wrong_input">Неверный ввод</string>
+    <string name="error_exucute_request">Ошибка выполнения запроса</string>
+    <string name="unknown_wialon_error">Неизвестная ошибка</string>
+    <string name="access_denied">Доступ запрещен</string>
+    <string name="wrong_user_name_or_password">Неверный пароль или имя пользователя</string>
+    <string name="authorization_server_unavailable">Сервер авторизации недоступен</string>
+    <string name="limit_one_moment_requests">Превышен лимит одновременных запросов</string>
+    <string name="error_perform_drop_password">Ошибка во время выполнения запроса на сброс пароля</string>
+    <string name="billing_error">Ошибка биллинга</string>
+    <string name="no_messages_for_selected_interval">Нет сообщений для выбранного интервала</string>
+    <string name="such_element_already_exists_billing_limitations">Элемент с таким уникальным свойством уже существует или Невозможно создать элемент в связи с ограничениями биллинга</string>
+    <string name="only_one_request_allowed">Только один запрос разрешается в данный момент времени</string>
+    <string name="messages_limit_exceed">Превышено ограничение по числу сообщений</string>
+    <string name="timeout">Ограничение по времени выполнения было превышено</string>
+    <string name="login_attempts_limit">Превышение лимита попыток ввода кода двухфакторной авторизации</string>
+    <string name="session_expired">Время сессии истекло либо ваш IP изменился</string>
+    <string name="current_user_cant_be_used">Текущий пользователь не может быть выбран при создании учетной записи</string>
+    <string name="delete_forbiden_used_in_another_object">Удаление датчика запрещено по причине использования в другом датчике или дополнительных свойствах объекта</string>
+    <string name="unknown_android_error">Неизвестная ошибка</string>
+    <string name="json_parser_error">Неверный формат ответа от сервера</string>
+    <string name="unit_create_not_filled">Отсутствует требуемое поле</string>
+    <string name="unit_create_unit_exists">Объект с таким IMEI существует</string>
+
+    <string name="cancel">Отмена</string>
+    <string name="repeat">Повторить?</string>
+    <string name="repeat_question">Повторить?</string>
+    <string name="Continue">Продолжить</string>
+    <string name="ok">ок</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="dialog_recoverable_message_generic">Произошла неизвестная ошибка… Описание: %s</string>
+    <string name="dialog_recoverable_title">Что-то случилось</string>
+    <string name="all_retry">Повторить</string>
+    <string name="all_cancel">Отмена</string>
+    <string name="unit_create_not_company">Не заполнено поле \"Компания\"</string>
+    <string name="unit_create_not_name">Не заполнено поле \"Гос.номер авто\"</string>
+    <string name="unit_create_not_imei">Не заполнено поле \"Имей прибора\"</string>
+    <string name="unit_create_not_type">Не заполнено поле \"Модель оборудования\"</string>
+    <string name="unit_create_not_phone">Не заполнено поле \"Телефон\"</string>
+
+    <!--TODO FILL THIS ARRAY WITH SENSORS-->
+    <string-array name="sensors">
+        <item>Teltonika FMB125|||{\"type\":\"avl_unit\",\"version\":\"b4\",\"mu\":0,\"sensors\":[
+    {\"id\":1,\"n\":\"Двигатель\",\"t\":\"engine operation\",\"d\":\"\",\"m\":\"On/Off\",\"p\":\"pwr_ext\",\"f\":0,\"c\":\"\{\"act\":1,\"appear_in_popup\":true,\"ci\":{},\"cm\":0,\"consumption\":2,\"mu\":\"0\",\"pos\":2,\"show_time\":false,\"timeout\":3600,\"uct\":0}\",\"vt\":8,\"vs\":3,\"tbl\":[{\"x\":0,\"a\":0,\"b\":0},{\"x\":13.6,\"a\":0,\"b\":1}]},
+    {\"id\":2,\"n\":\"Напряжение бортовой сети\",\"t\":\"voltage\",\"d\":\"\",\"m\":\"V\",\"p\":\"pwr_ext\",\"f\":0,\"c\":\"\{\"act\":1,\"appear_in_popup\":true,\"ci\":{},\"cm\":0,\"mu\":\"0\",\"pos\":1,\"show_time\":false,\"timeout\":0,\"uct\":0}\",\"vt\":0,\"vs\":0,\"tbl\":[{\"x\":1,\"a\":1,\"b\":0}]},
+    {\"id\":3,\"n\":\"Зажигание\",\"t\":\"digital\",\"d\":\"\",\"m\":\"On/Off\",\"p\":\"io_239\",\"f\":0,\"c\":\"\{\"act\":1,\"appear_in_popup\":true,\"ci\":{},\"cm\":0,\"mu\":\"0\",\"pos\":3,\"show_time\":false,\"timeout\":0,\"uct\":0}\",\"vt\":0,\"vs\":0,\"tbl\":[{\"x\":0,\"a\":0,\"b\":0},{\"x\":1,\"a\":0,\"b\":1}]},{\"id\":4,\"n\":\"Odm\",\"t\":\"odometer\",\"d\":\"\",\"m\":\"km\",\"p\":\"io_16-#io_16\",\"f\":0,\"c\":\"\{\"act\":1,\"appear_in_popup\":false,\"ci\":{},\"cm\":0,\"mu\":\"0\",\"pos\":6,\"show_time\":false,\"timeout\":0,\"uct\":0}\",\"vt\":0,\"vs\":0,\"tbl\":[{\"x\":-1,\"a\":0,\"b\":0},{\"x\":0,\"a\":0.001,\"b\":0}]},
+    {\"id\":5,\"n\":\"GPS сигнал\",\"t\":\"custom\",\"d\":\"|1:1:2:2\",\"m\":\"шт.\",\"p\":\"sats\",\"f\":0,\"c\":\"\{\"act\":1,\"appear_in_popup\":true,\"ci\":{\"0\":{\"c\":16711680,\"t\":\"Плохой\"},\"5\":{\"c\":16762624,\"t\":\"Удовлетворительный\"},\"8\":{\"c\":1167360,\"t\":\"Отличный\"}},\"cm\":0,\"mu\":0,\"pos\":4,\"show_time\":false,\"text_params\":0,\"timeout\":0,\"uct\":0}\",\"vt\":0,\"vs\":0,\"tbl\":[{\"x\":1,\"a\":1,\"b\":0}]},
+    {\"id\":6,\"n\":\"GSM сигнал\",\"t\":\"custom\",\"d\":\"100%/5|0:0:1:20:2:40:3:60:4:80:5:100\",\"m\":\"%\",\"p\":\"gsm\",\"f\":0,\"c\":\"\{\"act\":1,\"appear_in_popup\":true,\"ci\":{\"0\":{\"c\":16711680,\"t\":\"Плохой\"},\"20\":{\"c\":16762624,\"t\":\"Удовлетворительный\"},\"40\":{\"c\":1167360,\"t\":\"Отличный\"}},\"cm\":1,\"lower_bound\":-1,\"mu\":\"0\",\"pos\":5,\"show_time\":false,\"text_params\":0,\"timeout\":0,\"uct\":0,\"unbound_code\":\"\",\"upper_bound\":101,\"validate_driver_unbound\":0}\",\"vt\":0,\"vs\":0,\"tbl\":[{\"x\":0,\"a\":20,\"b\":0},{\"x\":1,\"a\":20,\"b\":0},{\"x\":2,\"a\":20,\"b\":0},{\"x\":3,\"a\":20,\"b\":0},{\"x\":4,\"a\":20,\"b\":0}]},
+    {\"id\":7,\"n\":\"Заряд внутренней АКБ\",\"t\":\"custom\",\"d\":\"\",\"m\":\"%\",\"p\":\"io_113\",\"f\":64,\"c\":\"\{\"act\":1,\"appear_in_popup\":true,\"ci\":{},\"cm\":1,\"flags\":\"64\",\"lower_bound\":-1,\"mu\":\"0\",\"pos\":7,\"show_time\":false,\"text_params\":0,\"timeout\":0,\"uct\":0,\"unbound_code\":\"\",\"upper_bound\":101,\"validate_driver_unbound\":0}\",\"vt\":0,\"vs\":0,\"tbl\":[]}]}</item>
+
+    </string-array>
+
+
+</resources>

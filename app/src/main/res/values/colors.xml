@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brandBlack">#000000</color>
+    <color name="brandWhite">#FFFFFF</color>
+    <color name="brandPink">#E51A4B</color>
+
+    <!--Text-->
+    <color name="textColorPrimary">@color/corporateFiordDef800</color>
+    <color name="textColorSecondary">#e1e1e1</color>
+
+    <!--Toolbar-->
+    <color name="colorToolbar">@color/brandBlack</color>
+    <color name="colorToolbarText">@color/white</color>
+    <color name="colorToolbarTextSecondary">@color/white</color>
+    <color name="toolBarSearchIcon">@color/white</color>
+
+    <color name="dividerLine">@color/white</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="green">#00FF00</color>
+
+    <color name="corporateFiordDef800">#3C4A61</color>
+    <color name="gray">#808080</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="black">#000000</color>
+    <color name="mdb_color">#E51A4B</color>
+    <color name="mdb_color_light_1">#E51A4B</color>
+</resources>

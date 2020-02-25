@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">@color/brandBlack</item>
+        основной цвет для интерфейса программы - панель, кнопки и т.д.
+        <item name="colorPrimaryDark">@color/brandBlack</item>
+        цвет для системных элементов - строка состояния
+        <item name="colorAccent">@color/brandPink</item>
+        цвет для системных элементов - строка состояния
+        <item name="colorOnBackground">@color/brandPink</item>
+        цвет для системных элементов - строка состояния
+        <item name="colorOnError">@color/green</item>
+        цвет для системных элементов - строка состояния
+        <item name="colorOnPrimarySurface">@color/green</item>
+        цвет для системных элементов - строка состояния
+        <item name="colorOnSecondary">@color/green</item>
+        цвет для системных элементов - строка состояния
+        <item name="colorSecondary">@color/green</item>
+        цвет для системных элементов - строка состояния
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="backgroundColor">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+
+    </style>
+
+    <style name="ProgressBar" parent="Widget.AppCompat.ProgressBar">
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateTintMode">src_atop</item>
+        <item name="android:indeterminateTint">?attr/colorAccent</item>
+    </style>
+
+    <style name="RoundedCornersDialogFragment" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/background_rounded_dialog</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorAccent">@color/brandPink</item>
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
+    </style>
+</resources>

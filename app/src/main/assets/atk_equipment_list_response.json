@@ -1,0 +1,6648 @@
+{
+  "draw": 0,
+  "recordsTotal": 332,
+  "recordsFiltered": 332,
+  "data": [
+    {
+      "id": 289,
+      "IMEI": "357322047475485",
+      "ModelID": 6,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 6,
+        "Model": "FM Light",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:33:46.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 870,
+      "IMEI": "862057043832077",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 873,
+      "IMEI": "862057043797783",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 1459,
+      "IMEI": "357454071704793",
+      "ModelID": 20,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 20,
+        "Model": "FM5300",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 1464,
+      "IMEI": "356307049741787",
+      "ModelID": 20,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 20,
+        "Model": "FM5300",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 1615,
+      "IMEI": "868183033992244",
+      "ModelID": 23,
+      "ProviderID": 6,
+      "company": null,
+      "model": {
+        "id": 23,
+        "Model": "M1",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 6,
+        "Provider": "Mielta",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 1630,
+      "IMEI": "868183033991360",
+      "ModelID": 23,
+      "ProviderID": 6,
+      "company": null,
+      "model": {
+        "id": 23,
+        "Model": "M1",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 6,
+        "Provider": "Mielta",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 1701,
+      "IMEI": "866050039853492",
+      "ModelID": 24,
+      "ProviderID": 6,
+      "company": null,
+      "model": {
+        "id": 24,
+        "Model": "M3",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 6,
+        "Provider": "Mielta",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 2652,
+      "IMEI": "7269401",
+      "ModelID": 40,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 40,
+        "Model": "LV-CAN200",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 2736,
+      "IMEI": "865209039801734",
+      "ModelID": 45,
+      "ProviderID": 16,
+      "company": null,
+      "model": {
+        "id": 45,
+        "Model": "Arnavi4",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 16,
+        "Provider": "\u0410\u0440\u0443\u0441\u043d\u0430\u0432\u0438",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3007,
+      "IMEI": "202002880",
+      "ModelID": 48,
+      "ProviderID": 18,
+      "company": null,
+      "model": {
+        "id": 48,
+        "Model": "Profi",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 18,
+        "Provider": "Omnicomm",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3008,
+      "IMEI": "202000804",
+      "ModelID": 48,
+      "ProviderID": 18,
+      "company": null,
+      "model": {
+        "id": 48,
+        "Model": "Profi",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 18,
+        "Provider": "Omnicomm",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3012,
+      "IMEI": "202003030",
+      "ModelID": 48,
+      "ProviderID": 18,
+      "company": null,
+      "model": {
+        "id": 48,
+        "Model": "Profi",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 18,
+        "Provider": "Omnicomm",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3030,
+      "IMEI": "352848027986104",
+      "ModelID": 16,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 16,
+        "Model": "FM11XX",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3043,
+      "IMEI": "862057043858155",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3238,
+      "IMEI": "867459040951329",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3251,
+      "IMEI": "867459040832370",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3551,
+      "IMEI": "867459045649787",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3738,
+      "IMEI": "865733029201985",
+      "ModelID": 8,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 8,
+        "Model": "FM Tacho",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:31:50.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3784,
+      "IMEI": "862273040976037",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 3974,
+      "IMEI": "868183037484800",
+      "ModelID": 23,
+      "ProviderID": 6,
+      "company": null,
+      "model": {
+        "id": 23,
+        "Model": "M1",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 6,
+        "Provider": "Mielta",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 4105,
+      "IMEI": "3831",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 4221,
+      "IMEI": "\u0411\\\u043d (14l5053502)",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 4378,
+      "IMEI": "9584",
+      "ModelID": 23,
+      "ProviderID": 6,
+      "company": null,
+      "model": {
+        "id": 23,
+        "Model": "M1",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 6,
+        "Provider": "Mielta",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 4623,
+      "IMEI": "5049108",
+      "ModelID": 46,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 46,
+        "Model": "\u0422\u0414-150",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 4660,
+      "IMEI": "865532049863356",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 4754,
+      "IMEI": "359006059509566",
+      "ModelID": 5,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 5,
+        "Model": "FM Blue",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:33:17.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 4842,
+      "IMEI": "865532049856061",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 4899,
+      "IMEI": "5056823",
+      "ModelID": 46,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 46,
+        "Model": "\u0422\u0414-150",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5007,
+      "IMEI": "861230048886460",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5045,
+      "IMEI": "861230048886866",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5067,
+      "IMEI": "1606",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5112,
+      "IMEI": "2666666544",
+      "ModelID": 63,
+      "ProviderID": 22,
+      "company": null,
+      "model": {
+        "id": 63,
+        "Model": "VT-10",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 22,
+        "Provider": "Wonde Proud",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5115,
+      "IMEI": "2666660391",
+      "ModelID": 63,
+      "ProviderID": 22,
+      "company": null,
+      "model": {
+        "id": 63,
+        "Model": "VT-10",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 22,
+        "Provider": "Wonde Proud",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5116,
+      "IMEI": "352093085558764",
+      "ModelID": 3,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 3,
+        "Model": "FMB630",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5152,
+      "IMEI": "16607",
+      "ModelID": 67,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 67,
+        "Model": "BASE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5259,
+      "IMEI": "866039048460258",
+      "ModelID": 23,
+      "ProviderID": 6,
+      "company": null,
+      "model": {
+        "id": 23,
+        "Model": "M1",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 6,
+        "Provider": "Mielta",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5520,
+      "IMEI": "860157041570224",
+      "ModelID": 23,
+      "ProviderID": 6,
+      "company": null,
+      "model": {
+        "id": 23,
+        "Model": "M1",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 6,
+        "Provider": "Mielta",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5645,
+      "IMEI": "214791",
+      "ModelID": 71,
+      "ProviderID": 26,
+      "company": null,
+      "model": {
+        "id": 71,
+        "Model": "SAT-LITE 2",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 26,
+        "Provider": "Satellite Solutions",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5691,
+      "IMEI": "2614",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5696,
+      "IMEI": "2580",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5703,
+      "IMEI": "2566",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5745,
+      "IMEI": "866795038157242",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 5787,
+      "IMEI": "866795036228870",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 5836,
+      "IMEI": "8074389",
+      "ModelID": 46,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 46,
+        "Model": "\u0422\u0414-150",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5915,
+      "IMEI": "164000962",
+      "ModelID": 64,
+      "ProviderID": 14,
+      "company": null,
+      "model": {
+        "id": 64,
+        "Model": "Direct RS 250",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 14,
+        "Provider": "\u041c\u0435\u0445\u0430\u0442\u0440\u043e\u043d\u0438\u043a\u0430",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5926,
+      "IMEI": "164000963",
+      "ModelID": 64,
+      "ProviderID": 14,
+      "company": null,
+      "model": {
+        "id": 64,
+        "Model": "Direct RS 250",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 14,
+        "Provider": "\u041c\u0435\u0445\u0430\u0442\u0440\u043e\u043d\u0438\u043a\u0430",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5928,
+      "IMEI": "860922040920278",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 5958,
+      "IMEI": "866795035299369",
+      "ModelID": 77,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 77,
+        "Model": "SMART S-2430-Start",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:44.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 5979,
+      "IMEI": "866795038944441",
+      "ModelID": 78,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 78,
+        "Model": "SMART S-2433",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:35.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 5982,
+      "IMEI": "868183036071152",
+      "ModelID": 45,
+      "ProviderID": 16,
+      "company": null,
+      "model": {
+        "id": 45,
+        "Model": "Arnavi4",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 16,
+        "Provider": "\u0410\u0440\u0443\u0441\u043d\u0430\u0432\u0438",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6003,
+      "IMEI": "2644",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6011,
+      "IMEI": "2600",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6033,
+      "IMEI": "3618",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6093,
+      "IMEI": "868324022203470",
+      "ModelID": 7,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 7,
+        "Model": "FM Blue+",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:33:07.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6096,
+      "IMEI": "359633101026560",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6158,
+      "IMEI": "359633102332561",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6176,
+      "IMEI": "359633100970610",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6180,
+      "IMEI": "359633101183759",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6232,
+      "IMEI": "865473034154461",
+      "ModelID": 81,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 81,
+        "Model": "SMART S-2333",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:14.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6256,
+      "IMEI": "866795039019300",
+      "ModelID": 78,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 78,
+        "Model": "SMART S-2433",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:35.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6260,
+      "IMEI": "866795038959944",
+      "ModelID": 78,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 78,
+        "Model": "SMART S-2433",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:35.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6280,
+      "IMEI": "860922042939300",
+      "ModelID": 72,
+      "ProviderID": 20,
+      "company": null,
+      "model": {
+        "id": 72,
+        "Model": "7.0 Wi-Fi",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 20,
+        "Provider": "GalileoSky",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6281,
+      "IMEI": "860922042993414",
+      "ModelID": 72,
+      "ProviderID": 20,
+      "company": null,
+      "model": {
+        "id": 72,
+        "Model": "7.0 Wi-Fi",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 20,
+        "Provider": "GalileoSky",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6283,
+      "IMEI": "860922042993703",
+      "ModelID": 72,
+      "ProviderID": 20,
+      "company": null,
+      "model": {
+        "id": 72,
+        "Model": "7.0 Wi-Fi",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 20,
+        "Provider": "GalileoSky",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6284,
+      "IMEI": "860922042993554",
+      "ModelID": 72,
+      "ProviderID": 20,
+      "company": null,
+      "model": {
+        "id": 72,
+        "Model": "7.0 Wi-Fi",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 20,
+        "Provider": "GalileoSky",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6292,
+      "IMEI": "2599",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6310,
+      "IMEI": "2643",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6325,
+      "IMEI": "4196",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6346,
+      "IMEI": "866795036187761",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6425,
+      "IMEI": "354017113168138",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6437,
+      "IMEI": "354017113168708",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6438,
+      "IMEI": "354017113168682",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6458,
+      "IMEI": "865209039664371",
+      "ModelID": 45,
+      "ProviderID": 16,
+      "company": null,
+      "model": {
+        "id": 45,
+        "Model": "Arnavi4",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 16,
+        "Provider": "\u0410\u0440\u0443\u0441\u043d\u0430\u0432\u0438",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6460,
+      "IMEI": "4553",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6487,
+      "IMEI": "8091255",
+      "ModelID": 46,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 46,
+        "Model": "\u0422\u0414-150",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6494,
+      "IMEI": "8091215",
+      "ModelID": 46,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 46,
+        "Model": "\u0422\u0414-150",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6495,
+      "IMEI": "8091130",
+      "ModelID": 46,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 46,
+        "Model": "\u0422\u0414-150",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6509,
+      "IMEI": "357322040451012",
+      "ModelID": 5,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 5,
+        "Model": "FM Blue",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:33:17.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6510,
+      "IMEI": "354017112113887",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6518,
+      "IMEI": "354017113160663",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6575,
+      "IMEI": "359858023771023",
+      "ModelID": 5,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 5,
+        "Model": "FM Blue",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:33:17.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6577,
+      "IMEI": "356173060045908",
+      "ModelID": 16,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 16,
+        "Model": "FM11XX",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6581,
+      "IMEI": "866795037118989",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6591,
+      "IMEI": "866795037098017",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6592,
+      "IMEI": "866795037129788",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6614,
+      "IMEI": "352093083163054",
+      "ModelID": 3,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 3,
+        "Model": "FMB630",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6630,
+      "IMEI": "866795036919965",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6683,
+      "IMEI": "4804",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6686,
+      "IMEI": "4807",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6698,
+      "IMEI": "4790",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6703,
+      "IMEI": "4795",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6722,
+      "IMEI": "359006055067361",
+      "ModelID": 5,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 5,
+        "Model": "FM Blue",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:33:17.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6723,
+      "IMEI": "866795036943411",
+      "ModelID": 73,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 73,
+        "Model": "XtCan",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6726,
+      "IMEI": "869153047038572",
+      "ModelID": 76,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 76,
+        "Model": "ADM50",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6727,
+      "IMEI": "359858023771023",
+      "ModelID": 7,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 7,
+        "Model": "FM Blue+",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:33:07.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6730,
+      "IMEI": "357543053085625",
+      "ModelID": 7,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 7,
+        "Model": "FM Blue+",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:33:07.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6737,
+      "IMEI": "860922040981353",
+      "ModelID": 130,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 130,
+        "Model": "Tacho-sdk",
+        "created_at": "2020-11-23T12:48:46.000000Z",
+        "updated_at": "2020-11-23T12:48:46.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6739,
+      "IMEI": "866795037037593",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6740,
+      "IMEI": "866795037129390",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6743,
+      "IMEI": "866795036920328",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6744,
+      "IMEI": "866795036964094",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6749,
+      "IMEI": "44L5278492",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6750,
+      "IMEI": "89689",
+      "ModelID": 43,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 43,
+        "Model": "S-CAN",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6756,
+      "IMEI": "7269363",
+      "ModelID": 40,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 40,
+        "Model": "LV-CAN200",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6757,
+      "IMEI": "9482206",
+      "ModelID": 40,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 40,
+        "Model": "LV-CAN200",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6758,
+      "IMEI": "5479626",
+      "ModelID": 40,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 40,
+        "Model": "LV-CAN200",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6760,
+      "IMEI": "686496",
+      "ModelID": 40,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 40,
+        "Model": "LV-CAN200",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6761,
+      "IMEI": "9612504",
+      "ModelID": 40,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 40,
+        "Model": "LV-CAN200",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6766,
+      "IMEI": "143934",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6770,
+      "IMEI": "142288",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6772,
+      "IMEI": "143912",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6773,
+      "IMEI": "143971",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6775,
+      "IMEI": "144026",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6776,
+      "IMEI": "142265",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6777,
+      "IMEI": "142652",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6780,
+      "IMEI": "142329",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6782,
+      "IMEI": "142297",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6786,
+      "IMEI": "143999",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6787,
+      "IMEI": "144011",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6789,
+      "IMEI": "24366",
+      "ModelID": 67,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 67,
+        "Model": "BASE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6790,
+      "IMEI": "24397",
+      "ModelID": 67,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 67,
+        "Model": "BASE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6791,
+      "IMEI": "24365",
+      "ModelID": 67,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 67,
+        "Model": "BASE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6792,
+      "IMEI": "24356",
+      "ModelID": 67,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 67,
+        "Model": "BASE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6793,
+      "IMEI": "24349",
+      "ModelID": 67,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 67,
+        "Model": "BASE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6796,
+      "IMEI": "868324021870238",
+      "ModelID": 11,
+      "ProviderID": 4,
+      "company": null,
+      "model": {
+        "id": 11,
+        "Model": "FM Eco4",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:35:35.000000Z"
+      },
+      "provider": {
+        "id": 4,
+        "Provider": "Ruptela",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6802,
+      "IMEI": "866795036994232",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6804,
+      "IMEI": "866795037161690",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6806,
+      "IMEI": "866795036919544",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6808,
+      "IMEI": "866795036971909",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6811,
+      "IMEI": "866795037130109",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6812,
+      "IMEI": "866795037130067",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6813,
+      "IMEI": "866795036923447",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6814,
+      "IMEI": "866795037129762",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6816,
+      "IMEI": "866795037036439",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6849,
+      "IMEI": "5149",
+      "ModelID": 31,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 31,
+        "Model": "\u0414\u0423\u0422 \u0410",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6850,
+      "IMEI": "5150",
+      "ModelID": 31,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 31,
+        "Model": "\u0414\u0423\u0422 \u0410",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6851,
+      "IMEI": "5151",
+      "ModelID": 31,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 31,
+        "Model": "\u0414\u0423\u0422 \u0410",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6852,
+      "IMEI": "5152",
+      "ModelID": 31,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 31,
+        "Model": "\u0414\u0423\u0422 \u0410",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6854,
+      "IMEI": "5140",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6870,
+      "IMEI": "5126",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6874,
+      "IMEI": "5130",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6876,
+      "IMEI": "5132",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6879,
+      "IMEI": "5135",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6881,
+      "IMEI": "5137",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6893,
+      "IMEI": "861785008374914",
+      "ModelID": 12,
+      "ProviderID": 4,
+      "company": null,
+      "model": {
+        "id": 12,
+        "Model": "FM Pro3",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:35:12.000000Z"
+      },
+      "provider": {
+        "id": 4,
+        "Provider": "Ruptela",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6906,
+      "IMEI": "866795039086622",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6907,
+      "IMEI": "866795039028699",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6908,
+      "IMEI": "866795039140130",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6909,
+      "IMEI": "866795038229017",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6911,
+      "IMEI": "866795039032014",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6913,
+      "IMEI": "866795039141716",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6914,
+      "IMEI": "866795038212104",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6915,
+      "IMEI": "866795039039027",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6916,
+      "IMEI": "866795039075450",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6917,
+      "IMEI": "866795039071376",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6918,
+      "IMEI": "866795039091408",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6920,
+      "IMEI": "866795039071251",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6924,
+      "IMEI": "866795039142342",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6925,
+      "IMEI": "866795039142029",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6931,
+      "IMEI": "866795037085253",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6933,
+      "IMEI": "862531040062243",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6935,
+      "IMEI": "862531040138332",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6936,
+      "IMEI": "862531040070212",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6937,
+      "IMEI": "866795039910128",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6938,
+      "IMEI": "862531040070279",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6939,
+      "IMEI": "862531040043748",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6940,
+      "IMEI": "866795039943525",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6941,
+      "IMEI": "866795039841851",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6942,
+      "IMEI": "862531040070642",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6943,
+      "IMEI": "862531040070170",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6944,
+      "IMEI": "866795039903362",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6945,
+      "IMEI": "866795039842081",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6946,
+      "IMEI": "866795038326813",
+      "ModelID": 131,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 131,
+        "Model": "SMART S-2421",
+        "created_at": "2021-01-13T07:32:39.000000Z",
+        "updated_at": "2021-01-13T07:32:39.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6947,
+      "IMEI": "862846042767254",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6948,
+      "IMEI": "862846042791700",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6950,
+      "IMEI": "862846042772353",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6951,
+      "IMEI": "862846042791478",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6953,
+      "IMEI": "862846042767072",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6954,
+      "IMEI": "862846042796337",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6955,
+      "IMEI": "862846042770647",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6956,
+      "IMEI": "862846042780679",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6958,
+      "IMEI": "862846042767262",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6959,
+      "IMEI": "862846042768534",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6960,
+      "IMEI": "862846042809239",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6961,
+      "IMEI": "862846042771694",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6963,
+      "IMEI": "862846042771686",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6964,
+      "IMEI": "862846042768542",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6965,
+      "IMEI": "862846042767130",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6966,
+      "IMEI": "862846042749575",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6967,
+      "IMEI": "862846042808728",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6968,
+      "IMEI": "866795036972253",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6969,
+      "IMEI": "866795036964722",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6970,
+      "IMEI": "866795036991998",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6971,
+      "IMEI": "866795036952230",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6972,
+      "IMEI": "866795037039128",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6973,
+      "IMEI": "866795036920971",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6974,
+      "IMEI": "866795036991428",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6975,
+      "IMEI": "866795038220131",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6976,
+      "IMEI": "866795038259709",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6977,
+      "IMEI": "866795039820889",
+      "ModelID": 80,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 80,
+        "Model": "SMART S-2420-Easy",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:27.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 6978,
+      "IMEI": "862846042591308",
+      "ModelID": 73,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 73,
+        "Model": "XtCan",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6979,
+      "IMEI": "862846042594963",
+      "ModelID": 73,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 73,
+        "Model": "XtCan",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6980,
+      "IMEI": "92299",
+      "ModelID": 43,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 43,
+        "Model": "S-CAN",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6981,
+      "IMEI": "92300",
+      "ModelID": 43,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 43,
+        "Model": "S-CAN",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6982,
+      "IMEI": "92301",
+      "ModelID": 43,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 43,
+        "Model": "S-CAN",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6986,
+      "IMEI": "5159",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6987,
+      "IMEI": "5160",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6988,
+      "IMEI": "5161",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6989,
+      "IMEI": "5162",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6991,
+      "IMEI": "5163",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6992,
+      "IMEI": "5164",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6993,
+      "IMEI": "5165",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6994,
+      "IMEI": "5166",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6995,
+      "IMEI": "5167",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6996,
+      "IMEI": "5168",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6997,
+      "IMEI": "5169",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6998,
+      "IMEI": "5170",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 6999,
+      "IMEI": "5171",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7000,
+      "IMEI": "5172",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7002,
+      "IMEI": "5174",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7003,
+      "IMEI": "5175",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7004,
+      "IMEI": "5176",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7005,
+      "IMEI": "5177",
+      "ModelID": 30,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 30,
+        "Model": "\u0414\u0423\u0422 \u0427",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7007,
+      "IMEI": "354017111818015",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7008,
+      "IMEI": "354017111813628",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7009,
+      "IMEI": "354017111819849",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7011,
+      "IMEI": "354017111257883",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7012,
+      "IMEI": "354017111145906",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7013,
+      "IMEI": "354017111258519",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7014,
+      "IMEI": "359633108354072",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7015,
+      "IMEI": "359633108116711",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7016,
+      "IMEI": "354017111103913",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7017,
+      "IMEI": "354017111145740",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7019,
+      "IMEI": "354017111154148",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7021,
+      "IMEI": "359633108375382",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7024,
+      "IMEI": "354017111113417",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7026,
+      "IMEI": "359633108409702",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7027,
+      "IMEI": "354017111141715",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7028,
+      "IMEI": "354017111113342",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7029,
+      "IMEI": "354017111093882",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7030,
+      "IMEI": "354017111113599",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7031,
+      "IMEI": "354017111261026",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7032,
+      "IMEI": "354017111216723",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7033,
+      "IMEI": "354017111041824",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7034,
+      "IMEI": "354017111116063",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7035,
+      "IMEI": "354017111251530",
+      "ModelID": 74,
+      "ProviderID": 3,
+      "company": null,
+      "model": {
+        "id": 74,
+        "Model": "FMB125",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 3,
+        "Provider": "Teltonika",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7038,
+      "IMEI": "860922041011838",
+      "ModelID": 8,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 8,
+        "Model": "FM Tacho",
+        "created_at": null,
+        "updated_at": "2021-01-30T12:31:50.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7041,
+      "IMEI": "20070757",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7042,
+      "IMEI": "20070758",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7043,
+      "IMEI": "20070759",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7044,
+      "IMEI": "20070760",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7045,
+      "IMEI": "20070761",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7046,
+      "IMEI": "20070762",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7047,
+      "IMEI": "20070764",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7048,
+      "IMEI": "20070765",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7049,
+      "IMEI": "20070766",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7050,
+      "IMEI": "20070767",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7051,
+      "IMEI": "20070768",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7052,
+      "IMEI": "20070769",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7053,
+      "IMEI": "20070770",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7054,
+      "IMEI": "20070771",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7055,
+      "IMEI": "20070772",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7056,
+      "IMEI": "20070773",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7057,
+      "IMEI": "20070774",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7058,
+      "IMEI": "20070775",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7059,
+      "IMEI": "20070776",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7060,
+      "IMEI": "20070763",
+      "ModelID": 132,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 132,
+        "Model": "\u0423\u043c\u043a\u0430210",
+        "created_at": "2021-01-25T05:49:51.000000Z",
+        "updated_at": "2021-01-25T05:49:51.000000Z"
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7061,
+      "IMEI": "93263",
+      "ModelID": 70,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 70,
+        "Model": "ADM31",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7062,
+      "IMEI": "93257",
+      "ModelID": 70,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 70,
+        "Model": "ADM31",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7063,
+      "IMEI": "93256",
+      "ModelID": 70,
+      "ProviderID": 25,
+      "company": null,
+      "model": {
+        "id": 70,
+        "Model": "ADM31",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 25,
+        "Provider": "Neomatica",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7065,
+      "IMEI": "5440",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7066,
+      "IMEI": "5441",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7067,
+      "IMEI": "5442",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7068,
+      "IMEI": "5443",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7069,
+      "IMEI": "5444",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7070,
+      "IMEI": "5445",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7071,
+      "IMEI": "5446",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7072,
+      "IMEI": "5447",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7073,
+      "IMEI": "5448",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7074,
+      "IMEI": "5449",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7075,
+      "IMEI": "5450",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7076,
+      "IMEI": "5451",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7077,
+      "IMEI": "5452",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7078,
+      "IMEI": "5453",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7079,
+      "IMEI": "5454",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7080,
+      "IMEI": "5455",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7081,
+      "IMEI": "5456",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7082,
+      "IMEI": "5457",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7083,
+      "IMEI": "5458",
+      "ModelID": 32,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 32,
+        "Model": "\u0414\u0423\u0422 \u0426",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7084,
+      "IMEI": "5459",
+      "ModelID": 31,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 31,
+        "Model": "\u0414\u0423\u0422 \u0410",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7085,
+      "IMEI": "5460",
+      "ModelID": 31,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 31,
+        "Model": "\u0414\u0423\u0422 \u0410",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7086,
+      "IMEI": "5461",
+      "ModelID": 31,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 31,
+        "Model": "\u0414\u0423\u0422 \u0410",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7087,
+      "IMEI": "5463",
+      "ModelID": 31,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 31,
+        "Model": "\u0414\u0423\u0422 \u0410",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7088,
+      "IMEI": "5462",
+      "ModelID": 31,
+      "ProviderID": 11,
+      "company": null,
+      "model": {
+        "id": 31,
+        "Model": "\u0414\u0423\u0422 \u0410",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 11,
+        "Provider": "\u0411\u0413\u0423\u0438\u0420",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7089,
+      "IMEI": "201228102043",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7090,
+      "IMEI": "201228102055",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7091,
+      "IMEI": "201228102049",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7092,
+      "IMEI": "201228101873",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7093,
+      "IMEI": "201228101865",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7094,
+      "IMEI": "201228101826",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7095,
+      "IMEI": "201228102056",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7096,
+      "IMEI": "201228102046",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7097,
+      "IMEI": "201228102053",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7098,
+      "IMEI": "201228101876",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7099,
+      "IMEI": "201228101862",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7100,
+      "IMEI": "201228101808",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7101,
+      "IMEI": "201228101848",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7102,
+      "IMEI": "201228102045",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7103,
+      "IMEI": "201228101759",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7104,
+      "IMEI": "201228101803",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7105,
+      "IMEI": "201228102042",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7106,
+      "IMEI": "201228101750",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7110,
+      "IMEI": "201228101856",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7111,
+      "IMEI": "201228101811",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7112,
+      "IMEI": "201228101823",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7113,
+      "IMEI": "201228102052",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7114,
+      "IMEI": "201228102048",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7115,
+      "IMEI": "201228102039",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7116,
+      "IMEI": "201228101840",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7117,
+      "IMEI": "201228101751",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7118,
+      "IMEI": "201228101849",
+      "ModelID": 65,
+      "ProviderID": 12,
+      "company": null,
+      "model": {
+        "id": 65,
+        "Model": "TD",
+        "created_at": null,
+        "updated_at": null
+      },
+      "provider": {
+        "id": 12,
+        "Provider": "\u042d\u0441\u043a\u043e\u0440\u0442",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7119,
+      "IMEI": "862846042639669",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7120,
+      "IMEI": "860922041004668",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7121,
+      "IMEI": "862846042609589",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7122,
+      "IMEI": "862846042609480",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7123,
+      "IMEI": "862846042609738",
+      "ModelID": 2,
+      "ProviderID": 2,
+      "company": null,
+      "model": {
+        "id": 2,
+        "Model": "FMS500 StCAN",
+        "created_at": null,
+        "updated_at": "2021-01-30T11:50:19.000000Z"
+      },
+      "provider": {
+        "id": 2,
+        "Provider": "BCE",
+        "created_at": null,
+        "updated_at": null
+      },
+      "status": null
+    },
+    {
+      "id": 7134,
+      "IMEI": "866795039088107",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 7135,
+      "IMEI": "866795039011737",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 7138,
+      "IMEI": "866795039010994",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 7139,
+      "IMEI": "866795039015282",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    },
+    {
+      "id": 7141,
+      "IMEI": "866795039122229",
+      "ModelID": 69,
+      "ProviderID": 9,
+      "company": null,
+      "model": {
+        "id": 69,
+        "Model": "SMART S-2435-MAX",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:07:57.000000Z"
+      },
+      "provider": {
+        "id": 9,
+        "Provider": "Navtelecom",
+        "created_at": null,
+        "updated_at": "2020-11-09T19:10:38.000000Z"
+      },
+      "status": null
+    }
+  ],
+  "input": []
+}

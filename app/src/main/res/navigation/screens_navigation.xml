@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/screens_navigation"
+    app:startDestination="@id/loginFragment"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.atk.app.screens.login.LoginFragment"
+        android:label="LoginFragment"
+        tools:layout="@layout/login_fragment">
+        <action
+            android:id="@+id/action_loginFragment_to_createUnitFragment"
+            app:destination="@id/createUnitFragment"
+            app:popUpTo="@id/loginFragment"
+            app:popUpToInclusive="true" />
+        <deepLink app:uri="atkmobile://login" />
+        <action
+            android:id="@+id/action_loginFragment_to_searchFragment"
+            app:destination="@id/searchFragment"
+            app:popUpTo="@id/loginFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/createUnitFragment"
+        android:name="com.atk.app.screens.createunit.CreateUnitFragment"
+        android:label="createUnitFragment"
+        tools:layout="@layout/create_unit_fragment">
+        <action
+            android:id="@+id/action_createUnitFragment_to_qrCodeFragment"
+            app:destination="@id/qrCodeFragment" />
+        <action
+            android:id="@+id/action_createUnitFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_createUnitFragment_to_addClientDutFragment"
+            app:destination="@id/addClientDutFragment" />
+        <action
+            android:id="@+id/action_createUnitFragment_to_addOurDutFragment"
+            app:destination="@id/addOurDutFragment" />
+        <action
+            android:id="@+id/action_createUnitFragment_to_historyFragment"
+            app:destination="@id/historyFragment" />
+    </fragment>
+
+    <dialog
+        android:id="@+id/addClientDutFragment"
+        android:name="com.atk.app.screens.createunit.adddut.AddClientDutFragment"
+        android:label="AddClientDutFragment"
+        tools:layout="@layout/add_client_dut_fragment" />
+    <dialog
+        android:id="@+id/addOurDutFragment"
+        android:name="com.atk.app.screens.createunit.adddut.AddOurDutFragment"
+        android:label="AddOurDutFragment"
+        tools:layout="@layout/add_our_dut_fragment" />
+    <fragment
+        android:id="@+id/qrCodeFragment"
+        android:name="com.atk.app.screens.qrcode.QrCodeFragment"
+        android:label="QrCodeFragment"
+        tools:layout="@layout/qr_code_fragment" />
+
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.atk.app.screens.history.HistoryFragment"
+        android:label="HistoryFragment"
+        tools:layout="@layout/history_fragment">
+        <action
+            android:id="@+id/action_historyFragment_to_trackInfoFragment"
+            app:destination="@id/trackInfoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/trackInfoFragment"
+        android:name="com.atk.app.screens.track.TrackInfoFragment"
+        android:label="TrackInfoFragment"
+        tools:layout="@layout/toolbar_recycler_view_layout">
+        <argument
+            android:name="wialonId"
+            app:argType="long"
+            app:nullable="false" />
+        <argument
+            android:name="isLocal"
+            app:argType="boolean"
+            app:nullable="false" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.atk.app.screens.search.SearchFragment"
+        android:label="SearchFragment"
+        tools:layout="@layout/toolbar_recycler_view_layout">
+        <action
+            android:id="@+id/action_searchFragment_to_createUnitFragment"
+            app:destination="@id/createUnitFragment" />
+        <action
+            android:id="@+id/action_searchFragment_to_historyFragment"
+            app:destination="@id/historyFragment" />
+    </fragment>
+
+</navigation>

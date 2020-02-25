@@ -1,0 +1,12 @@
+[*.{kt, java, xml, gradle, md}]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = false
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
+disabled_rules = import-ordering, no-wildcard-imports
+
+[*.json]
+indent_style = space
+indent_size = 2
